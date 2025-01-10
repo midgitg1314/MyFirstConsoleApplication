@@ -12,3 +12,4 @@ C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\
 C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.pdb
 C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.genruntimeconfig.cache
 C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\ref\MyFirstConsoleApplication.dll
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.sourcelink.json

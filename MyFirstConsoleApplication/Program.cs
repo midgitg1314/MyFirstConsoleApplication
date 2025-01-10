@@ -26,11 +26,11 @@ class Program
 
     static void GlazerCalc ()
     {
-        Console.WriteLine("Enter the width of the glazer in inches: ");
+        Console.WriteLine("Enter the width of the glazer in meters: ");
         string widthString = Console.ReadLine();
         double width = double.Parse(widthString);
 
-        Console.WriteLine("Enter the height of the glazer in inches: ");
+        Console.WriteLine("Enter the height of the glazer in meters: ");
         string heightString = Console.ReadLine();
         double height = double.Parse(heightString);
 
@@ -41,4 +41,4 @@ class Program
         Console.WriteLine( $"The area of the glass is {glassArea} square metres" ) ;
         
     }
-}
+} 
