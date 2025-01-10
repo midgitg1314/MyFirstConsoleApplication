@@ -1,0 +1,14 @@
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.exe
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.deps.json
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.runtimeconfig.json
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.dll
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.pdb
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.AssemblyInfo.cs
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.dll
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\refint\MyFirstConsoleApplication.dll
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.pdb
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.genruntimeconfig.cache
+C:\Users\midgi\OneDrive\Documents\Second C#\MyFirstConsoleApplication\obj\Debug\net9.0\ref\MyFirstConsoleApplication.dll
